@@ -1,1 +1,1 @@
-# discor-bot-password-genenator
+# discord bot
